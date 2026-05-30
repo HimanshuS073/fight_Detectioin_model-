@@ -132,7 +132,7 @@ Some improvements that can be added in future versions:
 ## Demo
 
 A demo video showing real-time inference is included in this repository.
-
+[Watch Demo Video](./demo_vide.mp4)
 
 ---
 
