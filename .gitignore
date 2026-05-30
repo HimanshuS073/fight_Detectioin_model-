@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+main.py
+model_video_testing.py
+video_testing.py
+/home/himanshus/Projects/fight_detection_model/best_model.pth
+/home/himanshus/Projects/fight_detection_model/best_slowfast_safe.pth
+*.pth
+*.mp4
